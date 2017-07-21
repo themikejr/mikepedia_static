@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mikepedia</title>
+    <link>http://104.200.30.149/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>I&#39;m a software developer, coffee enthusiast, and closet typographic idealist. Mikepedia is my personal, digital compendium. From time to time I may write down some thoughts, notes on how I accomplished something, or something else completely random.</description>
+    <pubDate>Fri, 21 Jul 2017 15:30:52 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://104.200.30.149/2015/12/31/first-post/</link>
+      <guid>http://104.200.30.149/2015/12/31/first-post/</guid>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;h1 id=&quot;First-post&quot;&gt;&lt;a href=&quot;#First-post&quot; class=&quot;headerlink&quot; title=&quot;First post&quot;&gt;&lt;/a&gt;First post&lt;/h1&gt;&lt;p&gt;I’m posting for the &lt;em&gt;first&lt;/em&gt; tim
+      
+      </description>
+      
+      <comments>http://104.200.30.149/2015/12/31/first-post/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
