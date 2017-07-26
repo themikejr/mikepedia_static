@@ -8,7 +8,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>I&#39;m a software developer, coffee enthusiast, and closet typographic idealist. Mikepedia is my personal, digital compendium. From time to time I may write down some thoughts, notes on how I accomplished something, or something else completely random.</description>
-    <pubDate>Wed, 26 Jul 2017 16:12:37 GMT</pubDate>
+    <pubDate>Wed, 26 Jul 2017 16:15:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -18,8 +18,8 @@
       <pubDate>Fri, 21 Jul 2017 16:06:55 GMT</pubDate>
       <description>
       
-        &lt;h2 id=&quot;Opinion&quot;&gt;&lt;a href=&quot;#Opinion&quot; class=&quot;headerlink&quot; title=&quot;Opinion&quot;&gt;&lt;/a&gt;Opinion&lt;/h2&gt;&lt;p&gt;My favorite manual brewing device.&lt;/p&gt;
-&lt;h3 id=&quot;Pro
+        &lt;p&gt;test&lt;/p&gt;
+&lt;h2 id=&quot;Opinion&quot;&gt;&lt;a href=&quot;#Opinion&quot; class=&quot;headerlink&quot; title=&quot;Opinion&quot;&gt;&lt;/a&gt;Opinion&lt;/h2&gt;&lt;p&gt;My favorite manual brewing device.&lt;/p&gt;
       
       </description>
       
